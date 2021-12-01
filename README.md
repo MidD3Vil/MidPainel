@@ -18,7 +18,7 @@
 
 <h3><p align="center">Version: 2.1 Beta</p></h3>
  
-<h2 align="center"🙈  Novidades:</h2>
+<h2 align="center">🙈  Novidades:</h2>
 
 * `16/09` A opção **Consulta CPF** já está disponível.
 * `22/10` Devido a problemas de **API** A opção **Consulta CPF** foi removida temporariamente
