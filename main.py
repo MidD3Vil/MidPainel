@@ -122,8 +122,8 @@ while Sair == False:
 
     if opc == 1:     # NOME
         nome.consultar()
-    # if opc == 2:   # CPF
-        # cpf.consultar()
+    if opc == 2:   # CPF
+        cpf.consultar()
     elif opc == 3:   # CEP
         cep.consultar()
     elif opc == 4:   # Placa
