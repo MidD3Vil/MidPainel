@@ -32,7 +32,7 @@ def consultar():
     while restart == 'S':
         while True:
             cpf_input = str(input(f'\n{Hcyan}Digite o CPF para consulta: ')).strip().lower()
-            if '0' in cpf_input:
+            if len(cpf_input) > 11:
                 print(f'{Ired}!!! {Nyellow}CPF Inválido {Ired}!!!')
             else:
                 break
