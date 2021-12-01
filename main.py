@@ -114,7 +114,7 @@ Sair = False
 while Sair == False:
     try:
         banner.menu()
-        opc = int(input(f'{Dgreen}Digite o numero da opção que deseja: \n>>>'))
+        opc = int(input(f'{Dgreen}Digite o numero da opção que deseja: \n>>> '))
     except:
         error_dialog('Caracteres não reconhecidos');
         op = None
