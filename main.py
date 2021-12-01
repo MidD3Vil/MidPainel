@@ -50,7 +50,7 @@ except:
 
 
 try:
-    from database import cep, covid19, ip, placa, banner, root, meuip, cnpj, nome
+    from database import cep, covid19, ip, placa, banner, root, meuip, cnpj, nome, cpf
 except Exception as error:
     print(f'{Twhite}{Ired}[*]{Twhite} Erro: ' + error)
     exit()
