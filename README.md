@@ -87,8 +87,8 @@ $ python3 main.py
 
 | Autor          | Ajuda         | Git
 |:--------------:|:-------------:|:-----------------------------------:|
-| Crowley        | API - CPF     | https://github.com/termuxuser123465 |
-| termuxuser     | API - Nome    | https://github.com/Crowley-Dev      |
+| Crowley        | API - CPF     | https://github.com/Crowley-Dev      |
+| termuxuser     | API - Nome    | https://github.com/termuxuser123465 |
 
 
 
