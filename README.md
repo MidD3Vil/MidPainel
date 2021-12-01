@@ -77,6 +77,15 @@ $ cd MidPainel
 $ python3 main.py
 ```
 
+<h2 align="center">🙏  Créditos:</h2>
+
+| Autor          | Ajuda         | Git
+|:--------------:|:-------------:|:-----------------------------------:|
+| Crowley        | API - CPF     | https://github.com/termuxuser123465 |
+| termuxuser     | API - Nome    | https://github.com/Crowley-Dev      |
+
+
+
  <h2 align="center">📢 Help</h2>
  >>> **Este painel esta sendo disponibilizado 100% gratuitamente... As API não são fáceis de encontrar.** <<<
  
