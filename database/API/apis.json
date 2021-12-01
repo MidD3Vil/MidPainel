@@ -1,0 +1,42 @@
+[
+        {
+          "numero_kiny":["http://ifind.chapada.com.br:7777/?token=20491c06-5675-4e06-b2ae-4e3fcda2abdd&tel={}", "ON"],
+          "numero_gav":["https://dualityapi.xyz/apis/flex_7/Consultas%20Privadas/HTML/numero.php?consulta={}", "ON"]
+        },
+        {
+          "cpf_kiny":["http://ifind.chapada.com.br:7777/?token=20491c06-5675-4e06-b2ae-4e3fcda2abdd&cpf={}", "ON"],
+          "cpf_crowley":["http://45.178.183.3/cpf.php?cpf={}", "ON"],
+          "cpf_gav":["https://consulta-cpf2.p.rapidapi.com/apis/astrahvhdeus/Consultas%20Privadas/HTML/{}.php", "ON"],
+          "cpf_mid":["http://ghostcenter.xyz/api/cpf/{}", "ON"]
+        },
+        {
+          "nome_kiny":["http://ifind.chapada.com.br:7777/?token=20491c06-5675-4e06-b2ae-4e3fcda2abdd&nome={}", "ON"],
+          "nome_gav":["https://consulta-nome1.p.rapidapi.com/apis/astrahvhdeus/Consultas%20Privadas/HTML/{}.php", "ON"],
+          "nome_123":["http://ghostcenter.xyz/api/nome/{}", "ON"]
+        },
+        {
+          "email_gav":["https://consulta-e-mail.p.rapidapi.com/apis/astrahvhdeus/Consultas%20Privadas/HTML/{}.php", "ON"]
+        },
+        {
+          "ip_mid":["http://ip-api.com/json/{}", "ON"],
+          "ip_whois":["http://ipwhois.app/json/{}", "ON"]
+        },
+        {
+          "placa_mid":["https://apicarros.com/v1/consulta/{}/json", "ON"]
+        },
+        {
+          "rg_gav":["https://consulta-rg.p.rapidapi.com/apis/astrahvhdeus/Consultas%20Privadas/HTML/{}.php", "ON"]
+        },
+        {
+          "covid_mid":["https://covid19-brazil-api.now.sh/api/report/v1/brazil/uf/{}", "ON"]
+        },
+        {
+          "cnpj_mid":["https://www.receitaws.com.br/v1/cnpj/{}", "ON"]
+        },
+        {
+          "cep_mid":["https://viacep.com.br/ws/{}/json/", "ON"]
+        },
+        {
+          "bin_kiny":["https://lookup.binlist.net/{}", "ON"],
+        }
+ ]
