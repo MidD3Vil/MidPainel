@@ -16,7 +16,13 @@
   <a href="https://github.com/MidD3Vil">Author</a>
 </p>
 
-<h3><p align="center">Version: 2.0 Beta</p></h3>
+<h3><p align="center">Version: 2.1 Beta</p></h3>
+ 
+<h2 align="center"🙈  Novidades:</h2>
+
+* `16/09` A opção **Consulta CPF** já está disponível.
+* `22/10` Devido a problemas de **API** A opção **Consulta CPF** foi removida temporariamente
+* `01/11` A opção **Consulta Nome** já está disponível.
  
 <h2 align="center">📆  Features</h2>
 
@@ -29,8 +35,8 @@ Os que não estão, é porque ainda estão em desenvolvimento...
 - [ ] Consulta de CNS
 - [x] Consulta de CPF
 - [ ] Consulta de BIN
-- [ ] Consulta de Nome
-- [ ] Consulta de Nome da mãe
+- [x] Consulta de Nome
+- [x] Consulta de Nome da mãe
 - [ ] Consulta de Número
 - [ ] Consulta de Email
 - [x] Consulta de Placa
