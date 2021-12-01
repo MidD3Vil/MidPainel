@@ -50,7 +50,7 @@ except:
 
 
 try:
-    from database import cep, covid19, ip, placa, banner, root, meuip, cnpj
+    from database import cep, covid19, ip, placa, banner, root, meuip, cnpj, nome
 except Exception as error:
     print(f'{Twhite}{Ired}[*]{Twhite} Erro: ' + error)
     exit()
@@ -120,31 +120,33 @@ while Sair == False:
         op = None
     clear()
 
-    if opc == 1:     # CEP
-        cep.consultar()
-    # elif opc == 2:
+    if opc == 1:     # NOME
+        nome.consultar()
+    # if opc == 2:   # CPF
         # cpf.consultar()
-    elif opc == 3:   # IP
-        ip.consultar()
+    elif opc == 3:   # CEP
+        cep.consultar()
     elif opc == 4:   # Placa
         placa.consultar()
     elif opc == 5:   # CNPJ
         cnpj.consultar()
-    elif opc == 6:   # Meu IP
+    elif opc == 6:   # IP
+        ip.consultar()
+    elif opc == 7:   # Meu IP
         meuip.consultar()
-    elif opc == 7:   # Covid Info
+    elif opc == 8:   # Covid Info
         covid19.consultar()
-    elif opc == 8:   # Root Checker
+    elif opc == 9:   # Root Checker
         root.consultar()
-    elif opc == 9:   # Atualizar painel
+    elif opc == 10:   # Atualizar painel
         os.popen('cd database && bash update.sh');
         dialog('Reiniciando o painel...');
         restart()
-    elif opc == 10:  # Sair
+    elif opc == 11:  # Sair
         Sair = True
-    elif opc == 11:  # Criador
+    elif opc == 12:  # Criador
         os.system('termux-open-url https://wa.me/5512988789266')
-    elif opc == 12:  # Grupo
+    elif opc == 13:  # Grupo
         os.system('termux-open-url https://discord.gg/kgXhZzGJDY')
     elif opc == None:
         pass
