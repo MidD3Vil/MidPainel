@@ -38,5 +38,6 @@
         },
         {
           "bin_kiny":["https://lookup.binlist.net/{}", "ON"],
+          "bin_123":["https://bins.payout.com/api/v1/bins/{}", "ON"]
         }
  ]
