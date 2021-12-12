@@ -1,7 +1,8 @@
 [
         {
           "numero_kiny":["http://ifind.chapada.com.br:7777/?token=20491c06-5675-4e06-b2ae-4e3fcda2abdd&tel={}", "ON"],
-          "numero_gav":["https://dualityapi.xyz/apis/flex_7/Consultas%20Privadas/HTML/numero.php?consulta={}", "ON"]
+          "numero_gav":["https://dualityapi.xyz/apis/flex_7/Consultas%20Privadas/HTML/numero.php?consulta={}", "ON"],
+          "numero_mid":["http://apilayer.net/api/validate?access_key=f134484ed14981a957368f2a06aaa251&number={}&country_code={}&format=1", "ON"]
         },
         {
           "cpf_kiny":["http://ifind.chapada.com.br:7777/?token=20491c06-5675-4e06-b2ae-4e3fcda2abdd&cpf={}", "ON"],
